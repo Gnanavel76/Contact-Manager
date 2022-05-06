@@ -15,7 +15,7 @@ git clone https://github.com/Gnanavel76/Contact-Manager.git
 Go to the project directory
 
 ```bash
-cd phoneDirectory
+cd Contact-Manager
 ```
 
 Install dependencies
