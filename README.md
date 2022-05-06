@@ -32,9 +32,9 @@ npm start
 
 ## Screenshots
 
-![](https://github.com/Gnanavel76/Tic-Tac-Toe/blob/main/screenshots/AddContact.JPG)
-![](https://github.com/Gnanavel76/Tic-Tac-Toe/blob/main/screenshots/ContactBook.JPG)
-![](https://github.com/Gnanavel76/Tic-Tac-Toe/blob/main/screenshots/EditContact.JPG)
+![](https://github.com/Gnanavel76/Contact-Manager/blob/main/screenshots/AddContact.JPG)
+![](https://github.com/Gnanavel76/Contact-Manager/blob/main/screenshots/ContactBook.JPG)
+![](https://github.com/Gnanavel76/Contact-Manager/blob/main/screenshots/EditContact.JPG)
 
 ## Made By
 [@ Gnanavel76](https://github.com/Gnanavel76)
