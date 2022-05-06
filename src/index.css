@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.manage-contact {
+  max-width: 600px;
+}
+
+.left {
+  background: #f8fafc;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+.form-control,
+.form-select {
+  border-radius: 0.7rem;
+}
+
+.contacts-container {
+  height: calc(100% - 170px);
+}
+
+.contact {
+  border-radius: 1rem;
+}
+
+.contact::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  left: 0;
+  top: 114%;
+  background-color: #ced4da;
+}
+
+.contact:last-child::after {
+  content: "";
+  display: none;
+}
+
+.contact img {
+  width: 50px;
+  height: 50px;
+  margin-right: 2rem;
+}
+
+.contact .contact-detail .fa-phone {
+  font-size: 0.87rem;
+}
